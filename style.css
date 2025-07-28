@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display&display=swap');
+body {
+    margin: 2%;
+    text-align: center;
+    #spanText {
+        font-family: "Funnel Display";
+    }
+    button {
+        margin: 30px;
+        width: 80px;
+        height: 50px;
+        background-color: rgb(251, 49, 49);
+    }
+    button:hover {
+        background-color: aqua;
+    }
+}
